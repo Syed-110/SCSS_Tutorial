@@ -1,0 +1,22 @@
+$fixed-size: 15rem;
+.fixedSize {
+  min-height: $fixed-size;
+}
+.border-line{
+  border: 2px solid red;
+}
+.inside-box-size {
+  $fixed-size: 7rem;
+  min-height: $fixed-size;
+}
+.sec-fixed-height {
+  $fixed-size: 10.5rem;
+  min-height: $fixed-size;
+}
+.third-card-fixed-height {
+  min-height: $fixed-size;
+}
+.third-card-fixed-height2 {
+  $fixed-size: 5rem;
+  min-height: $fixed-size;
+}
